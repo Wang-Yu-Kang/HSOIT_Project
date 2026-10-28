@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+statsmodels>=0.14
+arch>=7.0
+yfinance>=0.2.40
+pytest>=8.0
+tabulate>=0.9
